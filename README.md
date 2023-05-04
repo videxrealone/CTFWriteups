@@ -23,7 +23,11 @@ In the task's description, I mentioned the word **personal files** and **top sec
 Now in the top secret folder, we find a **galf.txt**, you guess it right, it's **flag.txt** but reversed and inside it we find the following content:
 ```
 rC35_YM_6N1P33K{krapsrebyC // The idea here is that it's reversed and so we need to reverse it back.
+```
+
 The final result is:
+
+```
 Cyberspark{K33P1N6_MY_53Cr
 ```
 Now that we have the first half of the flag, we can move to part II.
@@ -60,7 +64,7 @@ In this step they need to go from **base64** > **base62** > **base58** > **base4
 **375_H1DD3N_4W4Y}**
 ```
 
-And the full flag is : **Cyberspark{K33P1N6_MY_53Cr375_H1DD3N_4W4Y}
+And the full flag is : **Cyberspark{K33P1N6_MY_53Cr375_H1DD3N_4W4Y}**
 
 ## Momento (Chained Series Task)
 
