@@ -1,5 +1,5 @@
 # CTFWriteups
-Documenting Tasks from various CTF Competitions
+Documenting My Tasks From Various CTF Competitions ( Still not updated )
 
 # Cyberspark 2023
 This event was a small CTF put together by Engineers Spark Iset'com in which we wrote some easy tasks for various categories in which the goal was to help people get into CTFs by giving them a glance at what they'll probably see in future CTFs.
